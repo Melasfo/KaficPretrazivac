@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094861778025",
+    "project_id": "kafic-pretrazivac",
+    "storage_bucket": "kafic-pretrazivac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094861778025:android:e96c3304d39e4883f8c6f8",
+        "android_client_info": {
+          "package_name": "com.example.kafic_pretrazivac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-gRya_f2_dTZq11Wk1o9IHIH4-PI-8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
